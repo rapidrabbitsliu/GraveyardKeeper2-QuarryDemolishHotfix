@@ -6,8 +6,8 @@ In game version 1.005, finishing `quarry_cave_blocked_work` can leave the player
 
 ## Install
 
-- Thunderstore Mod Manager: install this package and launch in **Modded** mode. The BepInEx pack is installed as a dependency.
-- Manual: install BepInEx 5 for the game's Mono build, then put `QuarryDemolishHotfix.dll` in `BepInEx/plugins/QuarryDemolishHotfix/`.
+- Manual (available now): install BepInEx 5 for the game's Mono build, then put [`QuarryDemolishHotfix.dll`](plugins/QuarryDemolishHotfix.dll) in `BepInEx/plugins/QuarryDemolishHotfix/`.
+- Thunderstore Mod Manager: once this package is published on Thunderstore, install it there and launch in **Modded** mode. The BepInEx pack is declared as a dependency.
 
 Back up your save before attempting the quarry work interaction. If you are already stuck, reload a save where the blocker can still be worked on, then complete the interaction again. After it finishes, check that the blocker is gone, the mine entrance can be used, and the result survives saving and reloading.
 
