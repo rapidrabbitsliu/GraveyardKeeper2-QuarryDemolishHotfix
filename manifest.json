@@ -1,0 +1,9 @@
+{
+  "name": "QuarryDemolishHotfix",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/rapidrabbitsliu/GraveyardKeeper2-QuarryDemolishHotfix",
+  "description": "Fixes the quarry cave demolition softlock caused by a missing movement point, while preserving the game's original demolition flow.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
